@@ -7,7 +7,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
 /**
- * Created by Daria on 16.05.2016.
+ * Created by Daria
  */
 public class TestCoach extends BaseTest {
     private String nameCoach1="Александр Галковский";
